@@ -22,6 +22,24 @@ Turning coffee into code ☕💻
 
 ---
 
+### 📊 GitHub Stats
+
+![Hariharan-081206's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hariharan-081206&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan-081206&layout=compact&theme=transparent)
+
+---
+
+### 🏆 Top Contributed Repositories
+
+- [Hariharan-081206/Event-and-Competition-Management-System](https://github.com/Hariharan-081206/Event-and-Competition-Management-System): A project designed to simplify and streamline event and competition organization, registration, and management.
+- [Hariharan-081206/Your-Other-Repo](https://github.com/Hariharan-081206/Your-Other-Repo): Description of your contribution or what the project is about.
+- [SomeOrg/External-Project](https://github.com/SomeOrg/External-Project): Description of your contribution to this external repository.
+
+*Update the above list with your actual top contributed repositories!*
+
+---
+
 ### 🌟 Notable Project
 
 #### 🚩 Event and Competition Management System
