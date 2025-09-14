@@ -49,7 +49,7 @@ A project designed to simplify and streamline event and competition organization
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/Hariharan_C.V-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Hariharan-C-V)
+[![LinkedIn](https://img.shields.io/badge/Hariharan_C.V-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariharan-c-v-075aba326/)
 
 ---
 
