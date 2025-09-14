@@ -33,7 +33,7 @@ Turning coffee into code ☕💻
 ### 🏆 Top Contributed Repositories
 
 - [Hariharan-081206/Event-and-Competition-Management-System](https://github.com/citil-wq/competition-Backend): A project designed to simplify and streamline event and competition organization, registration, and management.
-- [Hariharan-081206/Your-Other-Repo](https://github.com/Hariharan-081206/Your-Other-Repo): Description of your contribution or what the project is about.
+- [Hariharan-081206/Your-Other-Repo](https://github.com/Hariharan-081206/Shbms-Backend):An AI-powered hospital bed management platform that automates patient admission, optimizes bed allocation, and enhances hospital efficiency through real-time monitoring, predictive analytics, and resource forecasting.
 - [SomeOrg/External-Project](https://github.com/SomeOrg/External-Project): Description of your contribution to this external repository.
 
 *Update the above list with your actual top contributed repositories!*
